@@ -13,3 +13,5 @@ StonePlantMound1,1930,1936,1744,1750
 RLCraft_BasicZombie,1930,1930,1655,1655
 RLCraft_UndergroundRuin1,1927,1936,1652,1661
 StoneBoulder,1901,1910,2034,2043
+RLCraft_BasicZombie,1930,1930,1655,1655
+RLCraft_UndergroundRuin1,1927,1936,1652,1661
