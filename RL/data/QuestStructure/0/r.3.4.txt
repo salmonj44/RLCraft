@@ -1,0 +1,8 @@
+MysticalTree2,1929,1939,2109,2119
+StonePlantBoulder,1890,1900,2067,2077
+StonePlantMound4,1941,1948,2135,2142
+StonePlantMound1,1867,1873,2088,2094
+StonePlantBoulder,1870,1880,2155,2165
+StoneLeafMound,1787,1794,2086,2095
+RLCraft_SmallUndergroundSkeleton,1992,2000,2215,2223
+StonePlantMound3,1868,1879,2219,2228

@@ -1,0 +1,8 @@
+RLCraft_DecentWitch,290,290,69,69
+RLCraft_UndergroundRuin3,285,293,63,71
+UndergroundCrypt,-38,-24,-101,-73
+StonePlantMound1,-41,-35,-134,-128
+StonePlantMound3,53,62,41,52
+StonePlantBoulder,99,109,38,48
+BlazeSpawnerCrystal,286,292,64,70
+P_SpookyHouse,60,86,-13,27

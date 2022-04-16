@@ -1,0 +1,13 @@
+StoneLeafMound,4019,4026,-3106,-3097
+RLCraft_SmallUndergroundSkeleton,4026,4034,-3130,-3122
+ShrineSmallFire,3937,3947,-3137,-3127
+DinosaurSkull,3841,3852,-3125,-3106
+RLCraft_DecentZombie,3836,3836,-3141,-3141
+RLCraft_UndergroundRuin2,3834,3841,-3146,-3136
+RLCraft_BasicZombie,3797,3797,-3163,-3163
+RLCraft_UndergroundRuin1,3794,3803,-3169,-3160
+StonePlantMound1,4015,4021,-3184,-3178
+RLCraft_DecentCaveSpider,3734,3734,-3125,-3125
+RLCraft_UndergroundRuin2,3732,3739,-3130,-3120
+WitchPillars,3857,3874,-3246,-3229
+SmallWoodenCottage1,4021,4032,-3206,-3200

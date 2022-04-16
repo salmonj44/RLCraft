@@ -1,0 +1,8 @@
+BrickHenge,3942,3958,-3051,-3035
+StonePlantMound2,4033,4046,-3052,-3040
+StoneBoulder,3912,3921,-3011,-3002
+RLCraft_BasicSkeleton,3843,3843,-3051,-3051
+RLCraft_UndergroundRuin1,3840,3849,-3057,-3048
+SpiderPit,3901,3910,-2936,-2926
+RLCraft_DecentZombie,3756,3756,-3046,-3046
+RLCraft_UndergroundRuin2,3751,3758,-3051,-3041
