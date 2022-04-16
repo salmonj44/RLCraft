@@ -35,8 +35,8 @@
 1904 68 1763 1909 71 1770 Melonfield.tml
 1923 72 2247 1940 105 2264 SpiralTree.tml
 1978 106 2138 1982 114 2142 SmallWell.tml
-1992 61 1896 1999 71 1903 BridgePilings-sm2.tml
 1992 47 1609 2003 58 1645 SunkenShip-v3.tml
+1992 61 1896 1999 71 1903 BridgePilings-sm2.tml
 2008 66 1824 2012 74 1828 SmallWell.tml
 2016 73 2215 2018 77 2218 SkeletonHeadStatue.tml
 2036 63 1724 2043 76 1730 TP_FishingShack.tml
@@ -57,8 +57,8 @@
 2269 81 1536 2273 83 1540 EmeraldOreOutcrop.tml
 2297 76 1991 2305 82 1999 ShortTower.tml
 2302 80 2178 2307 88 2183 PillarBase.tml
-2313 74 1880 2321 84 1888 LargeStoneHouseWBasement.tml
 2313 87 1796 2317 95 1800 SmallWell.tml
+2313 74 1880 2321 84 1888 LargeStoneHouseWBasement.tml
 2350 95 2078 2353 99 2081 StoneGrill.tml
 2393 69 1560 2401 75 1568 ShortTower.tml
 2411 67 1991 2419 73 1997 StoneHouse.tml
